@@ -1,2 +1,3 @@
 name: Tyson Duffenais, hackerman
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
